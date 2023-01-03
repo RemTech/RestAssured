@@ -18,3 +18,4 @@ rest_test.iml
 /.idea/jarRepositories.xml
 /.idea/misc.xml
 /.idea/uiDesigner.xml
+.idea/*.

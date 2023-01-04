@@ -55,4 +55,9 @@ public class RestService extends BaseURI {
         return BaseURI.config().when().body(jsonObject).post("/api/register").thenReturn();
     }
 
+    /** get data from array **/
+    public Response getArrayObjects(){
+        return BaseURI.config().when().get("/api/unknown").thenReturn();
+    }
+
 }

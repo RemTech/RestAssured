@@ -10,12 +10,13 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 /.idea/
-/.idea/aws.xml
-/.idea/compiler.xml
-/.idea/dbnavigator.xml
+.idea/aws.xml
+.idea/compiler.xml
+.idea/dbnavigator.xml
 rest_test.iml
-/.idea/.name
-/.idea/jarRepositories.xml
-/.idea/misc.xml
-/.idea/uiDesigner.xml
-.idea/*.
+.idea/.name
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+/.idea/* .
+/.idea/*

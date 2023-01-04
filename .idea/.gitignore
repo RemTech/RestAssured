@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.name
+/aws.xml
+/compiler.xml
+/dbnavigator.xml
+/jarRepositories.xml
+/misc.xml
+/uiDesigner.xml
+/.idea/*.
